@@ -20,10 +20,19 @@
 }
 .row_poster:hover {
   transform: scale(1.08);
+  cursor: pointer;
 }
 .row_posterLarge {
   max-height: 250px;
 }
 .row_posterLarge:hover {
   transform: scale(1.09);
+}
+@media screen and (max-width: 480px) {
+  .row{
+    margin-left: 10px;
+  }
+  .row_posters{
+    padding:10px;
+  }
 }

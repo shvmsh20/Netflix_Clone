@@ -36,7 +36,6 @@ const Row = ({title, fetchUrl, isLargeRow})=>{
                 .then((url)=>{
                     const urlParams = new URLSearchParams(new URL(url).search);
                     setTrailerUrl(urlParams.get('v'));
-                    console.log(urlParams.get('v'));
                 })
                 .catch((error)=> console.log(error));
         }

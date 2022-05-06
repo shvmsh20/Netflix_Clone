@@ -49,3 +49,9 @@
     #111
   );
 }
+@media screen and (max-width: 480px) {
+  .banner_title {
+    font-size:2rem;
+  }
+  
+}
