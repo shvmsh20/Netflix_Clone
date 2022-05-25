@@ -11,7 +11,7 @@
   <h2>ScreenShot</h2>
   <i>This website is Deployed using Firebase!!!</i>
   
-  ![Netflix Home Page](https://i.ibb.co/XCJr3CN/Netflix-clone.png)
-  Click on the link below to visit the application</br>
+  ![Netflix Home Page](https://i.ibb.co/XCJr3CN/Netflix-clone.png) </br>
+  Click on the link below to visit the application </br>
    [https://netflix-clone-aef32.web.app/](https://netflix-clone-aef32.web.app/)
 
